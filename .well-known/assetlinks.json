@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.reshu.tracker",
+      "sha256_cert_fingerprints": ["D3:45:D0:D3:B3:1C:BF:4F:69:7F:7F:BA:8C:E2:7C:F7:BE:AB:5C:07:B1:95:DE:65:95:1F:0C:9F:61:48:EF:81"]
+    }
+  }
+]
